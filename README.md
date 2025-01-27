@@ -1,8 +1,7 @@
-# React + Vite
+# Bookstore App
+A modern web application for managing and displaying a bookstore's catalog. This app allows users to view book details, including title, description, subjects, and more. The project is built with React and integrates with the Open Library API for fetching book data.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Features
+View detailed information about books, including title, description, subjects, and more.
+Beautiful user interface using Tailwind CSS.
+Interactive navigation for browsing the book catalog.
