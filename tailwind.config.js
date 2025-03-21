@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        bannerImg: "url('src/assets/pexels_image_reacct.jpg')",
+        bannerImg: "url('/pexels_image_reacct.jpg')",
         myOverlay:
           "linear-gradient(to right ,rgba(245, 204, 132,0.7) 0%, rgba(245, 204, 132,0.4) 100%)",
       },
